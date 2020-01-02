@@ -10,7 +10,12 @@ Correct Answer of all USTC Advanced Database System Homework in Chinese
 ## 在线阅读（不推荐）
 [在线阅读](https://1970633640.github.io/USTC-Advanced-Database-System-Lab-Answer/read.html)
 
-在线阅读会消耗更多流量且画质更差、无法查看书签，并没有什么意义。
+此方法会消耗更多流量且画质更差、无法查看书签，并没有什么意义。
+
+
+[在线阅读2](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://1970633640.github.io/USTC-Advanced-Database-System-Lab-Answer/img/v3.pdf)
+
+此方法画质更好，且支持查看书签。
 
 ## 阅读说明
 PDF内含书签（目录），使用支持书签功能的阅读器可以快速定位章节、题目。
