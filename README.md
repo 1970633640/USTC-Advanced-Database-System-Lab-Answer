@@ -18,7 +18,7 @@ PDF内含书签（目录），使用支持书签功能的阅读器可以快速�
 可以转载到包括但不限于百度文库等第三方平台，不过**不能**修改文件，防止错误版本流传且阅读者不知道在哪里获取更新。
 
 ## 改错
-可以在本仓库发Issue。
+可以在本仓库[发Issue](https://github.com/1970633640/USTC-Advanced-Database-System-Lab-Answer/issues/new/choose)。
 
 ## 课程主页
 http://staff.ustc.edu.cn/~jpq/courses/adb-cs.html
