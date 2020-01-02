@@ -7,6 +7,11 @@ Correct Answer of all USTC Advanced Database System Homework in Chinese
 ## 下载地址
 [Release页面](https://github.com/1970633640/USTC-Advanced-Database-System-Lab-Answer/releases/latest) 的pdf文件（约900KB）
 
+## 在线阅读（不推荐）
+[在线阅读](https://1970633640.github.io/USTC-Advanced-Database-System-Lab-Answer/read.html)
+
+在线阅读会消耗更多流量且画质更差、无法查看书签，并没有什么意义。
+
 ## 阅读说明
 PDF内含书签（目录），使用支持书签功能的阅读器可以快速定位章节、题目。
 
